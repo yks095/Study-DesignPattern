@@ -4,14 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/flyweight_pattern/case1/step1/TestPattern.java" line="10" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c1e2eea-ef37-43d2-9df4-a66c04656d70" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/flyweight_pattern/case1/step1/TestPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/flyweight_pattern/case1/step2/TestPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/flyweight_pattern/case2/FlyweightFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/flyweight_pattern/case2/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/flyweight_pattern/case2/TestPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4c1e2eea-ef37-43d2-9df4-a66c04656d70" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +20,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/flyweight_pattern/case2/Subject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="1" />
               <folding>
                 <element signature="e#115#116#0" expanded="true" />
                 <element signature="e#147#148#0" expanded="true" />
@@ -37,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/flyweight_pattern/case2/FlyweightFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+            <state relative-caret-position="133">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#172#189#0" expanded="true" />
@@ -50,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/flyweight_pattern/case2/TestPattern.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+              <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -142,8 +135,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573447168983" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573447196432" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../study-springboot/Spring-Boot-MVC" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -281,12 +274,12 @@
       <workItem from="1573043356294" duration="1593000" />
       <workItem from="1573377630061" duration="1714000" />
       <workItem from="1573380932385" duration="5043000" />
-      <workItem from="1573444133317" duration="2519000" />
+      <workItem from="1573444133317" duration="2879000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10869000" />
+    <option name="totallyTimeSpent" value="11229000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -301,7 +294,7 @@
     <frame x="-6" y="0" width="870" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49812734" visible="true" weight="0.19876543" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49812734" visible="true" weight="0.19876543" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -310,8 +303,8 @@
       <window_info id="Favorites" order="6" sideWeight="0.50187266" side_tool="true" weight="0.18765432" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23054755" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3314121" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41210374" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3314121" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3299712" />
@@ -475,8 +468,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/flyweight_pattern/case2/Subject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="1" />
           <folding>
             <element signature="e#115#116#0" expanded="true" />
             <element signature="e#147#148#0" expanded="true" />
@@ -484,21 +477,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/flyweight_pattern/case2/TestPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/flyweight_pattern/case2/FlyweightFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#172#189#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/flyweight_pattern/case2/TestPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
         </state>
       </provider>
     </entry>
